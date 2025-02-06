@@ -113,6 +113,11 @@ body{
 	font-family: "Nunito";
 	letter-spacing: 3px;
 	font-weight: 600;
+	transition: background-color 0.9s ease;
+}
+.botao-comprar:hover{
+background-color: aquamarine;
+	color: black;
 }
 
 .formulario{
